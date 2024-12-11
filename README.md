@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mail4dewanshi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://github.com/Dewanshi4012">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -65,34 +65,20 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dewanshi4012&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
 
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewanshi4012&layout=compact&theme=radical" alt="Top Languages">
 </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dewanshi4012" alt="dewanshi4012" /></a> </p>
 
+  
 ---
 
 ### Fun Fact 🎤
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/000000/live-person-laptop.jpg" alt="Person working on laptop" style="width:60%; border-radius:10px;">
-</p>
-
-<p align="center" style="font-style:italic; font-size:18px;">
+<p align="left" style="font-style:italic; font-size:18px;">
   "Code is like humor. When you have to explain it, it’s bad." - <span id="quote">Keep Exploring</span>
 </p>
 
-<script>
-  const quotes = [
-    "Code is like humor. When you have to explain it, it’s bad.",
-    "Simplicity is the soul of efficiency.",
-    "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
-    "First, solve the problem. Then, write the code."
-  ];
-  let idx = 0;
-  setInterval(() => {
-    document.getElementById('quote').textContent = quotes[idx];
-    idx = (idx + 1) % quotes.length;
-  }, 5000);
-</script>
+
+
