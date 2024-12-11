@@ -41,7 +41,7 @@
 
 #### **StockWatchr**
 - A real-time stock market tracker featuring live updates and offline mode.
-- Technologies: **Retrofit**, **Restful API** **Room Database**, **MVVM Architecture**.
+- Technologies: **Retrofit**, **Restful API**, **Room Database**, **MVVM Architecture**.
 
 ---
 
