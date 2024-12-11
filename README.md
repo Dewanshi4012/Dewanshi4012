@@ -41,20 +41,20 @@
 
 #### **StockWatchr**
 - A real-time stock market tracker featuring live updates and offline mode.
-- Technologies: **Retrofit**, **Room Database**, **MVVM Architecture**.
+- Technologies: **Retrofit**, **Restful API** **Room Database**, **MVVM Architecture**.
 
 ---
 
 ### How to Reach Me 🚀
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dewanshijoshi" target="_blank">
+  <a href="https://www.linkedin.com/in/dewanshi-joshi0403" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:dewanshi.joshi@example.com">
+  <a href="mail4dewanshi@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/dewanshijoshi">
+  <a href="https://github.com/Dewanshi4012">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
@@ -64,12 +64,11 @@
 ### GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dewanshijoshi&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewanshijoshi&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dewanshi4012&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewanshijoshi&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewanshi4012&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
