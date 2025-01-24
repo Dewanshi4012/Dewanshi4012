@@ -3,7 +3,7 @@
 <h3 align="center">Coding the future, one Android app at a time. Less but effective.</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4debd960-5451-4ac1-98b0-5816397250c6" alt="Welcome Banner" style="width:80%;">
+  <img src="https://github.com/user-attachments/assets/4debd960-5451-4ac1-98b0-5816397250c6" alt="Welcome Banner" style="width:100%;">
 </p>
 
 ---
