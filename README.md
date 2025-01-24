@@ -31,6 +31,14 @@
 
 ### Projects 🎨
 
+#### **StockWatchr**
+- A real-time stock market tracker featuring live updates and offline mode.
+- Technologies: **Kotlin**, **Retrofit**, **Restful API**, **Room Database**, **MVVM Architecture**.
+
+#### **Packr**
+- Packr is a travel checklist app designed to help users organize their packing for trips.
+- Technologies: **Kotlin**, **ROOM Database**, **Shared Preferences**, **MVC Architecture**.
+
 #### **SafeNest**
 - A location-sharing app that increases security and convenience by 70%.
 - Technologies: **Kotlin**, **Firebase**, **ViewModel**, **LiveData**.
@@ -39,9 +47,7 @@
 - Multi-portal waste management app connecting users, drivers, and admins.
 - Technologies: **Java**, **RecyclerView**, **Firebase**.
 
-#### **StockWatchr**
-- A real-time stock market tracker featuring live updates and offline mode.
-- Technologies: **Retrofit**, **Restful API**, **Room Database**, **MVVM Architecture**.
+
 
 ---
 
